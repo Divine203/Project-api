@@ -1,0 +1,68 @@
+{
+    "project1" : {
+        "id": 1,
+        "name" : "MINECRAFT CLONE",
+        "shortDescription" : "Web based clone of the popular minecraft game built using...",
+        "longDescription" : "A web based clone of the popular minecraft game built using vanilla js, CSS and HTML",
+        "image": "https://i.postimg.cc/Dz1pCTmW/minecraft-img2.png",
+        "visit": "https://mystifying-blackwell-db1543.netlify.app/",
+        "youtube": "https://www.youtube.com/watch?v=18GJkidnnTc&t=16s",
+        "github": "https://github.com/Divine203/Divcraft"
+    },
+    
+    "project2" : {
+        "id": 2,
+        "name" : "3D SNAKE GAME",
+        "shortDescription" : "Web based 3d version of snake...",
+        "longDescription" : "A web based 3d version of snake, built with vanilla js, CSS and HTML",
+        "image": "https://i.postimg.cc/XYG8d3GD/snake.png",
+        "visit": "https://mystifying-blackwell-db1543.netlify.app/",
+        "youtube": "https://www.youtube.com/watch?v=nRUqaGNut1c",
+        "github": "https://github.com/Divine203/3d-snake-game"
+    },
+    
+    "project3" : {
+        "id": 3,
+        "name" : "FLAPPY BIRD A.I",
+        "shortDescription" : "A.I built and trained to play flappy bird perfectly...",
+        "longDescription" : "A.I built and trained to play flappy bird perfectly built with python",
+        "image": "https://i.postimg.cc/6Qr2yDTy/fb.jpg",
+        "visit": null,
+        "youtube": "https://www.youtube.com/watch?v=bVNSfgcIGyc",
+        "github": null
+    },
+
+    "project4" : {
+        "id": 4,
+        "name" : "QUIZ APP",
+        "shortDescription" : "A cross platform quiz application...",
+        "longDescription" : "A cross platform quiz application built with python and kivymd gui library",
+        "image": "https://i.postimg.cc/Hs0cwMzp/quiz-img.png",
+        "visit": null,
+        "youtube": null,
+        "github": "https://github.com/Divine203/PythonQuizApp"
+    },
+
+    "project5" : {
+        "id": 5,
+        "name" : "SFC WEBSITE",
+        "shortDescription" : "My Highschool, St Finbarr's college's website...",
+        "longDescription" : "My Highschool, St Finbarr's college's website, HTML, CSS and BOOTSTRAP (not managing in it)",
+        "image": "https://i.postimg.cc/XJ33nnWV/sfc.png",
+        "visit": "http://stfinbarrscollegeakoka.com",
+        "youtube": null,
+        "github": null
+    },
+
+    "project6" : {
+        "id": 6,
+        "name" : "CHROME'S DINO GAME",
+        "shortDescription" : "A 3d version of the chrome's dinosaur game...",
+        "longDescription" : "A 3d version of the chrome's dinosaur game, built HTML, CSS and vanilla JS",
+        "image": "https://i.postimg.cc/cHNvNdMc/dino.png",
+        "visit": null,
+        "youtube": "https://www.youtube.com/watch?v=rIG0T5iqr40&t=119s",
+        "github": "https://github.com/Divine203/3d-Chrome-Dino"
+    }
+
+}
